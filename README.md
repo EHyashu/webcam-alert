@@ -1,5 +1,7 @@
 ***🎥 Webcam Alert System***
 
+------
+
 A real-time motion detection system built with OpenCV and Python that uses your computer’s webcam to monitor activity and send alerts when motion is detected.
 Ideal for home surveillance, lab monitoring, or any simple security setup.
 
