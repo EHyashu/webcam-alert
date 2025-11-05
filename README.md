@@ -5,6 +5,8 @@
 A real-time motion detection system built with OpenCV and Python that uses your computer’s webcam to monitor activity and send alerts when motion is detected.
 Ideal for home surveillance, lab monitoring, or any simple security setup.
 
+--------
+
 🚀 Features
 
 🧠 Motion Detection: Detects movement in front of the webcam using frame differencing.
@@ -17,6 +19,8 @@ Ideal for home surveillance, lab monitoring, or any simple security setup.
 
 🧩 Lightweight & Fast: Built purely with Python and OpenCV — no heavy dependencies.
 
+---------
+
 🛠️ Tech Stack
 
 Language: Python 3.x
@@ -24,6 +28,8 @@ Language: Python 3.x
 Libraries: OpenCV, smtplib, email.message, time, os
 
 Tools: VS Code, Git, Virtual Environment
+
+----------
 
 📂 Project Structure
 webcam-alert/
@@ -33,6 +39,8 @@ webcam-alert/
 ├── .gitignore          # Ignored files (venv, cache, etc.)
 ├── requirements.txt    # Dependencies list
 └── README.md           # Project documentation
+
+---------
 
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
@@ -80,6 +88,8 @@ Saved images will appear in the /images or /captures folder (depending on your c
 
 Each file represents a detected motion event.
 
+---------
+
 ⚠️ Troubleshooting
 
 Camera not opening: Make sure no other app (Zoom, Teams, etc.) is using the webcam.
@@ -87,6 +97,8 @@ Camera not opening: Make sure no other app (Zoom, Teams, etc.) is using the webc
 Frame empty error: Try changing the index in cv2.VideoCapture(0) → cv2.VideoCapture(1)
 
 Email not sending: Enable “Less secure apps” or use Gmail App Passwords.
+
+---------
 
 💡 Future Improvements
 
@@ -97,6 +109,8 @@ Store motion events in a database
 Add GUI interface for non-technical users
 
 Deploy on Raspberry Pi for a mini home surveillance system
+
+---------
 
 🤝 Contribution Guidelines
 
@@ -115,6 +129,8 @@ Open a Pull Request
 
 Please make sure your code is clean, well-documented, and tested before submitting.
 
+----------
+
 📜 License
 
 This project is licensed under the MIT License — you’re free to use, modify, and distribute it with attribution.
@@ -132,6 +148,8 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
+
+-----------
 
 🧑‍💻 Author
 
