@@ -155,5 +155,5 @@ all copies or substantial portions of the Software.
 
 Aryan
 AI & Data Science Student | Python & ML Developer
-📫 GitHub
- • 💼 LinkedIn
+📫 GitHub: EHyashu
+ • 💼 LinkedIn: Aryan khatri
